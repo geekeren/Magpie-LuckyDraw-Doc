@@ -7,7 +7,7 @@
 
 Magpie，“喜鹊”，取其“报喜”之意，本系统是一款用于活动、公司年会的抽奖软件。Magpie目前采用纯前端编写而成，主要技术架构是ReactJs+Redux，部分UI的实现使用了React调用Jquery的方案。
 
-Magpie是一款开源的
+Magpie是一款开源的抽奖工具，项目主页：https://github.com/geekeren/Magpie-LuckyDraw
 
 ### 支持特性
 
