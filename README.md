@@ -1,4 +1,4 @@
-# Magpie
+# Magpie使用手册
 
 ![Github Release](https://img.shields.io/github/release/geekeren/Magpie-LuckyDraw.svg)
 [![Dockerhub](https://img.shields.io/docker/automated/bywang/magpie.svg)](https://hub.docker.com/r/bywang/magpie/)
